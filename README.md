@@ -9,7 +9,7 @@ A website that offers strategic advertising to website owners to increase traffi
 * CSS
 
 ## Websitefile:
-/C:/potential-octo-sniffle/urban-octo-telegram-main/urban-octo-telegram-main/Develop/index.html#social-media-marketing
+
 
 ## Contribution
 Made with ❤️ by Lauren
