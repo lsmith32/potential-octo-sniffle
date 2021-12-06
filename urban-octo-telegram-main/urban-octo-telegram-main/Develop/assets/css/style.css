@@ -114,7 +114,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: var(--font-family-1);
-    background-color: var(--blue);
+    background-color: #0072bb;
     color: var(--white);
 }
 
