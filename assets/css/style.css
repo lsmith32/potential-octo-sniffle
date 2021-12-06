@@ -20,10 +20,12 @@ Header {
     font-family: var(--font-family-2);
     background-color: #2a607c;
     color: var(--white);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 header h1 {
-    display: inline-block;
     font-size: 48px;
 }
 /* controls 'seo' in Horiseon header h1 */
@@ -41,6 +43,10 @@ header nav {
 
 header nav ul {
     list-style-type: none;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header nav ul li {
